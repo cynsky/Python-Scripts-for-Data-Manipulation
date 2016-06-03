@@ -1,0 +1,2 @@
+python
+pip install ipython
